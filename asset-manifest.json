@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cloudproject/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/cloudproject/static/js/main.d10808f3.chunk.js",
+    "main.js.map": "/cloudproject/static/js/main.d10808f3.chunk.js.map",
+    "runtime-main.js": "/cloudproject/static/js/runtime-main.9e649ce2.js",
+    "runtime-main.js.map": "/cloudproject/static/js/runtime-main.9e649ce2.js.map",
+    "static/js/2.c791ab85.chunk.js": "/cloudproject/static/js/2.c791ab85.chunk.js",
+    "static/js/2.c791ab85.chunk.js.map": "/cloudproject/static/js/2.c791ab85.chunk.js.map",
+    "index.html": "/cloudproject/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/cloudproject/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c791ab85.chunk.js.LICENSE.txt": "/cloudproject/static/js/2.c791ab85.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e649ce2.js",
+    "static/js/2.c791ab85.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d10808f3.chunk.js"
+  ]
+}
